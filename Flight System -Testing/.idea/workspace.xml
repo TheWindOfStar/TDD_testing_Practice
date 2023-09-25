@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11ffa875-99dc-4bf7-bf56-04a96e5d7793" name="Changes" comment="code smell now 27">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ChooseTicketTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ChooseTicketTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EO7XcLDOlSrPWdtGfH9VRqZDrP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/All course documents/S2 2022/FIT 5171/Reference/FIT5171AssignmentDemo&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.AirplaneTest">
+    <configuration name="AirplaneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1-code-base" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AirplaneTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyTicketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1-code-base" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BuyTicketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1-code-base" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PassengerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengerTest.constructorTestInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1-code-base" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PassengerTest" />
+      <option name="METHOD_NAME" value="constructorTestInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengerTest.testPassengerValidity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1-code-base" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PassengerTest" />
+      <option name="METHOD_NAME" value="testPassengerValidity(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AirplaneTest" />
+        <item itemvalue="JUnit.PassengerTest" />
+        <item itemvalue="JUnit.PassengerTest.testPassengerValidity" />
+        <item itemvalue="JUnit.PassengerTest.constructorTestInvalid" />
+        <item itemvalue="JUnit.BuyTicketTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11ffa875-99dc-4bf7-bf56-04a96e5d7793" name="Changes" comment="Updated TicketCollectionTest" />
+      <created>1662454820627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662454820627</updated>
+    </task>
+    <task id="LOCAL-00001" summary="maven update">
+      <created>1662554188895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662554188896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="maven update">
+      <created>1662554301341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662554301341</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Worked on TicketCollectionTest (req. 2)">
+      <created>1662635829080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662635829080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Worked on AirplaneTest.java finish test classes">
+      <created>1662965816590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662965816590</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Correct AirplaneTest.java ,working on Flight">
+      <created>1662985651162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662985651162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Correct AirplaneTest.java ,working on FlightTest and modified the dependency in Pom">
+      <created>1663033214622</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663033214622</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Correct AirplaneTest.java ,working on FlightTest and modified the dependency in Pom">
+      <created>1663033280173</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663033280173</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Need to improve FlightTest.java, Working on flightCollection Test">
+      <created>1663036175753</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663036175753</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Need to improve mock of test, working on source code">
+      <created>1663054567636</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663054567636</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Need to improve mock of test, working on source code">
+      <created>1663054810797</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663054810797</updated>
+    </task>
+    <task id="LOCAL-00011" summary="working on TicketCollectionTest">
+      <created>1663061319092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663061319092</updated>
+    </task>
+    <task id="LOCAL-00012" summary="TicketCollectionTest done, started BuyTicket">
+      <created>1663095610014</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663095610014</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Mockito in Ticket">
+      <created>1663109270045</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663109270045</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Mockito in Ticket">
+      <created>1663109307356</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663109307356</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated TicketCollectionTest">
+      <created>1663115546689</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663115546689</updated>
+    </task>
+    <task id="LOCAL-00016" summary="corrections">
+      <created>1665486223873</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665486223873</updated>
+    </task>
+    <task id="LOCAL-00017" summary="corrected regex">
+      <created>1665490934611</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665490934611</updated>
+    </task>
+    <task id="LOCAL-00018" summary="removed access modifiers">
+      <created>1665491793672</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665491793672</updated>
+    </task>
+    <task id="LOCAL-00019" summary="code smell now 27">
+      <created>1665569479735</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665569479735</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="maven update" />
+    <MESSAGE value="Worked on TicketCollectionTest (req. 2)" />
+    <MESSAGE value="Worked on AirplaneTest.java finish test classes" />
+    <MESSAGE value="Correct AirplaneTest.java ,working on Flight" />
+    <MESSAGE value="Correct AirplaneTest.java ,working on FlightTest and modified the dependency in Pom" />
+    <MESSAGE value="Need to improve FlightTest.java, Working on flightCollection Test" />
+    <MESSAGE value="Need to improve mock of test, working on source code" />
+    <MESSAGE value="working on TicketCollectionTest" />
+    <MESSAGE value="TicketCollectionTest done, started BuyTicket" />
+    <MESSAGE value="Mockito in Ticket" />
+    <MESSAGE value="Updated TicketCollectionTest" />
+    <MESSAGE value="corrections" />
+    <MESSAGE value="corrected regex" />
+    <MESSAGE value="removed access modifiers" />
+    <MESSAGE value="code smell now 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="code smell now 27" />
+  </component>
+</project>
